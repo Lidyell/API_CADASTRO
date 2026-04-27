@@ -33,7 +33,3 @@ build/
 .vscode/
 
 
-out/
-target/
-.idea/
-*.jar
