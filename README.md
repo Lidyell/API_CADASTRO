@@ -18,11 +18,11 @@ Responsável por fornecer os dados para o frontend (React), garantindo organiza�
 
 ## 🛠️ Tecnologias utilizadas
 
-* ☕ Java 17+
+* ☕ Java 21+
 * 🌱 Spring Boot
 * 🗄️ Spring Data JPA
 * 🔗 Spring Web (REST API)
-* 🐬 Banco de dados (MySQL / PostgreSQL / H2)
+* 🐬 Banco de dados (SupaBase - PostgreSQL)
 * 🔄 Maven
 
 ---
