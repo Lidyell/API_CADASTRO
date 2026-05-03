@@ -47,13 +47,13 @@ src/
 ### 1. Clone o repositório
 
 ```id="4zq3dl"
-git clone https://github.com/seu-usuario/sua-api.git
+git clone hhttps://github.com/Lidyell/API_CADASTRO.git
 ```
 
 ### 2. Acesse a pasta
 
 ```id="k03x0n"
-cd sua-api
+cd Projeto
 ```
 
 ### 3. Execute o projeto
@@ -127,13 +127,13 @@ DELETE /usuarios/{id}
 
 Esta API é consumida pelo frontend React:
 
-👉 https://github.com/seu-usuario/seu-frontend
+👉 https://github.com/Lidyell/Barbearia_Projeto
 
 ---
 
 ## 🧠 Boas práticas aplicadas
 
-* Separação em camadas (Controller, Service, Repository)
+* Separação em camadas (Controller, Service, Repository, Model)
 * Padrão REST
 * Código organizado e escalável
 
